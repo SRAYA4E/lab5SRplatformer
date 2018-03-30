@@ -1,2 +1,2 @@
-# lab5SRplatformer
-School
+# JSPlatformer
+JS Platformer for DIG 3480C
